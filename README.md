@@ -1,9 +1,9 @@
-## Oiii eu sou o Allan Verde
+## Olá, eu sou o Allan Verde
 
 <div align="center">
   <a href="https://github.com/allan-verde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allan-verde&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-verde&layout=compact&langs_count=7&theme=react"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=allan-verde&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-verde&layout=compact&langs_count=9&hide=less&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
